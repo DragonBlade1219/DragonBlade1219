@@ -1,4 +1,6 @@
-👋 Hi! I’m Andres
+https://stock.adobe.com/mx/images/hand-drawn-japanese-vector-dragon-in-black-and-gold-colours/438809201
+
+Hi! I’m Andres
 🚀 Senior Developer in Java and Python
 About Me
 Hi there! I’m a passionate software developer with over 3 years of experience in developing enterprise solutions. Although I don’t have personal projects on my GitHub profile, I’ve worked on a variety of complex and challenging projects in the corporate world.
