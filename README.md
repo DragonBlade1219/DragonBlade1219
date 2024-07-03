@@ -1,4 +1,4 @@
-[Sword]https://c.wallhere.com/photos/fe/cd/katana_samurai_sword-196206.jpg!d
+![Sword](https://c.wallhere.com/photos/fe/cd/katana_samurai_sword-196206.jpg!d)
 
 Hi! I’m Andres
 🚀 Senior Developer in Java and Python
